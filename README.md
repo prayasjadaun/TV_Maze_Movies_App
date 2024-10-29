@@ -1,16 +1,47 @@
-# tv_maze_movies_app
+![details screen](https://github.com/user-attachments/assets/7dd370f4-f592-4085-b506-f7f94546e890)# tv_maze_movies_app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Home Screen
+<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png
+" alt="Main Screen" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+### Details Screen
+<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png
+" alt="Description" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Search Screen
+<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png
+" alt="Description" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Installation
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+
+### Steps
+
+1. Clone the repository:
+    ```sh
+    git clone (https://github.com/prayasjadaun/TV_Maze_Movies_App)
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd tv_maze_movies_app
+    ```
+3. Install dependencies:
+    ```sh
+    flutter pub get
+    ```
+4. Run the app:
+    ```sh
+    flutter run
+    ```
