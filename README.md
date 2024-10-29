@@ -5,15 +5,15 @@ A new Flutter project.
 ## Getting Started
 
 ### Home Screen
-<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png)
-" alt="Main Screen" width="300"/>
+<img src="./HomeScreen.png
+" alt="Home Screen" width="300"/>
 
 ### Details Screen
-<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png)
-" alt="Description" width="300"/>
+<img src="./details screen.png
+" alt="Details Screen" width="300"/>
 
 ### Search Screen
-<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png)
+<img src="./search screen.png
 " alt="Description" width="300"/>
 
 
