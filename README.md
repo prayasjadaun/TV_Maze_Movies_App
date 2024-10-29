@@ -1,19 +1,19 @@
-![details screen](https://github.com/user-attachments/assets/7dd370f4-f592-4085-b506-f7f94546e890)# tv_maze_movies_app
+# tv_maze_movies_app
 
 A new Flutter project.
 
 ## Getting Started
 
 ### Home Screen
-<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png
+<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/HomeScreen.png)
 " alt="Main Screen" width="300"/>
 
 ### Details Screen
-<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png
+<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/details%20screen.png)
 " alt="Description" width="300"/>
 
 ### Search Screen
-<img src="https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png
+<img src="[https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png](https://github.com/prayasjadaun/TV_Maze_Movies_App/blob/main/search%20screen.png)
 " alt="Description" width="300"/>
 
 
