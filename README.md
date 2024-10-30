@@ -1,24 +1,21 @@
-# tv_maze_movies_app
+# TV Maze Movies App
 
-A new Flutter project.
+A new Flutter project displaying movies from the TVMaze API.
 
 ## Getting Started
 
-### Home Screen
-<img src="./HomeScreen.png
-" alt="Home Screen" width="300"/>
+### Screenshots
 
-### Details Screen
-<img src="./details screen.png
-" alt="Details Screen" width="300"/>
+#### Home Screen
+<img src="./HomeScreen.png" alt="Home Screen" width="300"/>
 
-### Search Screen
-<img src="./search screen.png
-" alt="Description" width="300"/>
+#### Details Screen
+<img src="./details_screen.png" alt="Details Screen" width="300"/>
 
+#### Search Screen
+<img src="./search_screen.png" alt="Search Screen" width="300"/>
 
-
-
+---
 
 ## Installation
 
@@ -31,7 +28,7 @@ A new Flutter project.
 
 1. Clone the repository:
     ```sh
-    git clone (https://github.com/prayasjadaun/TV_Maze_Movies_App)
+    git clone https://github.com/prayasjadaun/TV_Maze_Movies_App
     ```
 2. Navigate to the project directory:
     ```sh
@@ -45,3 +42,5 @@ A new Flutter project.
     ```sh
     flutter run
     ```
+
+---
