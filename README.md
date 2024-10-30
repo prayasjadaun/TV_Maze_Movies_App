@@ -10,10 +10,10 @@ A new Flutter project displaying movies from the TVMaze API.
 <img src="./HomeScreen.png" alt="Home Screen" width="300"/>
 
 #### Details Screen
-<img src="./details_screen.png" alt="Details Screen" width="300"/>
+<img src="./details screen.png" alt="Details Screen" width="300"/>
 
 #### Search Screen
-<img src="./search_screen.png" alt="Search Screen" width="300"/>
+<img src="./search screen.png" alt="Search Screen" width="300"/>
 
 ---
 
