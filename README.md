@@ -25,6 +25,7 @@ A new Flutter project displaying movies from the TVMaze API.
 - [Dart](https://dart.dev/get-dart)
 
 ### Steps
+pubspec.yaml: add http from pub.dev
 
 1. Clone the repository:
     ```sh
