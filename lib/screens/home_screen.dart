@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
@@ -38,20 +39,25 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.black,
         centerTitle: true,
-        title: const Row(
+        title: Row(
           children: [
-            Text(
-              'TV',
-              style: TextStyle(
-                  fontWeight: FontWeight.bold, fontSize: 30, color: Colors.red),
-            ),
+            Text('TV',
+                style: GoogleFonts.rubikWetPaint(
+                    textStyle: const TextStyle(
+                        color: Colors.red,
+                        letterSpacing: 4,
+                        fontSize: 30,
+                        fontWeight: FontWeight.w700))),
             Text(
               'Maze',
-              style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  fontSize: 30,
-                  color: Colors.blue),
+              style: GoogleFonts.rubikWetPaint(
+                  textStyle: const TextStyle(
+                      color: Colors.blue,
+                      letterSpacing: 4,
+                      fontSize: 30,
+                      fontWeight: FontWeight.w400)),
             ),
           ],
         ),
@@ -59,8 +65,8 @@ class _HomeScreenState extends State<HomeScreen> {
           IconButton(
             icon: const Icon(Icons.search),
             onPressed: () {
-              Navigator.of(context)
-                  .push(MaterialPageRoute(builder: (_) => SearchScreen()));
+              Navigator.of(context).push(
+                  MaterialPageRoute(builder: (_) => const SearchScreen()));
             },
           ),
         ],

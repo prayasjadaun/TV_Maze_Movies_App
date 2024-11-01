@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tv_maze_movies_app/screens/home_screen.dart';
+import 'package:tv_maze_movies_app/screens/splash_screen.dart';
 import 'screens/search_screen.dart';
 
 void main() {
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
-      home: const MainScreen(),
+      home: const SplashScreen(),
     );
   }
 }

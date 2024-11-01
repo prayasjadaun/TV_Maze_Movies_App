@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'home_screen.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:tv_maze_movies_app/main.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -12,10 +13,10 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Future.delayed(const Duration(seconds: 3), () {
+    Future.delayed(const Duration(seconds: 5), () {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => HomeScreen()),
+        MaterialPageRoute(builder: (context) => const MainScreen()),
       );
     });
   }
@@ -39,14 +40,11 @@ class _SplashScreenState extends State<SplashScreen> {
               ),
             ),
           ),
-          const Center(
-            child: Text(
-              'Welcome to TVMaze',
-              style: TextStyle(
-                  fontSize: 30,
-                  color: Colors.white,
-                  fontWeight: FontWeight.bold),
-            ),
+          Center(
+            child: Text('Welcome to TVMaze',
+                style: GoogleFonts.bonaNova(
+                    textStyle: const TextStyle(
+                        fontSize: 30, fontWeight: FontWeight.w900))),
           ),
         ],
       ),

@@ -31,6 +31,10 @@ dependencies:
   flutter:
     sdk: flutter
   http:
+<<<<<<< HEAD
+=======
+  google_fonts: ^6.2.1
+>>>>>>> 2d7d3a5 (Changes AppBar fonts)
 
 
   # The following adds the Cupertino Icons font to your application.
